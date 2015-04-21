@@ -1,0 +1,1 @@
+TvSync is a Synchronizer between mobile phone and TV
